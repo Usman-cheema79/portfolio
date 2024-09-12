@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Box, Typography, Button, useTheme, useMediaQuery, Container } from '@mui/material';
 import { Search as SearchIcon } from '@mui/icons-material';
 import img from "../../assets/images/my_pic-removebg.png";
-
 const messages = [
   'Professional Coder.',
   'Full Stack Developer.',
