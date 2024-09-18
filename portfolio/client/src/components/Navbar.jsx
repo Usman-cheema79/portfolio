@@ -143,7 +143,7 @@ function Navbar() {
               <Button
                 key={page}
                 onClick={handleCloseNavMenu}
-                sx={{ my: 2,color: theme.palette.text.primary, display: 'block',fontSize:"14px",fontWeight:"bold",'&:hover': {
+                sx={{ my: 2,color: theme.palette.text.primary, display: 'block',fontSize:"14px",'&:hover': {
                   color: 'red', 
       }, }}
               >
